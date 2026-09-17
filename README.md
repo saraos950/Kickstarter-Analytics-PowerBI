@@ -38,7 +38,7 @@ This project presents an in-depth exploratory and diagnostic business intelligen
 * **Root-Cause Attribution:** Root cause analysis via Decomposition Tree indicates **Film & Video**, **Publishing**, and **Music** suffer from high supply but low backer conversion in US and UK markets.
 
 ### 4. Backers & Community Engagement Analysis (40M Backers)
-![Backers Analysis](backers_analysis.jpg)
+![Backers Analysis](backers_analysis.png)
 * **Community Distribution:** The **United States** accounts for **33 Million (82.5%)** of total backers, followed by the **United Kingdom (3M)**.
 * **Backer Conversion:** **88.4% of total backers (35M)** supported campaigns that successfully met their goals, proving that backer volume is the definitive leading indicator of success.
 * **Top Backer Niches:** **Games (11M backers)** and **Design (7M backers)** drive the largest community engagement.
